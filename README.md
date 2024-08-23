@@ -4,14 +4,15 @@
 
 The Student Data Management System is a C++ application designed to manage student records efficiently. It allows users to enter, display, edit, delete, save, and load student data. The system uses a hierarchical class structure with `college`, `department`, and `student` classes to organize data.
 
+![mermaid-diagram-2024-08-23-101434](https://github.com/user-attachments/assets/1cc90583-eac3-499c-864f-0b6e2c030ff7)
+
 ## Features
 
 - **Add New Records:** Enter details for colleges, departments, and students.
 - **Display Records:** View details of all students.
 - **Edit Records:** Modify existing student information.
 - **Delete Records:** Remove student records by roll number.
-- **Save to File:** Save all student ![mermaid-diagram-2024-08-23-101434](https://github.com/user-attachments/assets/1cc90583-eac3-499c-864f-0b6e2c030ff7)
-records to a text file.
+- **Save to File:** Save all student records to a text file.
 - **Load from File:** Load student records from a text file.
 
 ## Technologies Used
